@@ -1,0 +1,22 @@
+{
+  "name": "Pobycoin",
+  "symbol": "POBY",
+  "image": "https://drive.google.com/uc?id=1-vJKHNqsMlg3YCDQlsQsPsvvN8FLbJ1e",
+  "description": "Pobycoin - The official token for Poby",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://example.com", 
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://drive.google.com/uc?id=1-vJKHNqsMlg3YCDQlsQsPsvvN8FLbJ1e",
+        "type": "image/png"
+      }
+    ]
+  }
+}
